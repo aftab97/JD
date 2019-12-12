@@ -1,0 +1,50 @@
+.container-1{
+    display: flex;
+
+    /* changes the direction of the boxes into a column */
+    /* flex-direction: column; */
+
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+/* now container 2 is also part of the class and will get the padding and border given to
+the first container */
+.container-1 div{
+    border:1px #ccc solid;
+    padding:10px;
+    /* justify-content: left; */
+    
+    
+}
+
+.title{
+    font-size: 20px;
+}
+
+.description{
+    font-size: 10px;
+}
+
+.box-1{
+    /* so flex is how you determine the priority of the width of the box by giving it a higher 
+    flex value then the other one then it becomes bigger then the other */
+    flex: 0.2;
+
+    /* items are aligned to the start of the container DEFAULT VALUE */
+    /* justify-content: flex-start; */
+
+    /* this allows you to change the order of the boxes */
+    order: 1;
+}
+
+.box-2{
+    flex:0.5;
+    order: 2;
+}
+
+.MyClass{
+    background-color: red;
+}

@@ -1,0 +1,921 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1351,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "wghaAgAAQBAJ",
+        "etag": "6vy2xG8XMjM",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/wghaAgAAQBAJ",
+        "volumeInfo": {
+          "title": "HTML5: The Missing Manual",
+          "authors": [
+            "Matthew MacDonald"
+          ],
+          "publisher": "\"O'Reilly Media, Inc.\"",
+          "publishedDate": "2013-12-17",
+          "description": "HTML5 is more than a markup language\u2014it\u2019s a collection of several independent web standards. Fortunately, this expanded guide covers everything you need in one convenient place. With step-by-step tutorials and real-world examples, HTML5: The Missing Manual shows you how to build web apps that include video tools, dynamic graphics, geolocation, offline features, and responsive layouts for mobile devices. The important stuff you need to know: Structure web pages more effectively. Learn how HTML5 helps web design tools and search engines work smarter. Add audio and video without plugins. Build playback pages that work in every browser. Create stunning visuals with Canvas. Draw shapes, pictures, and text; play animations; and run interactive games. Jazz up your pages with CSS3. Add fancy fonts and eye-catching effects with transitions and animation. Design better web forms. Collect information from visitors more efficiently with HTML5 form elements. Build it once, run it everywhere. Use responsive design to make your site look good on desktops, tablets, and smartphones. Include rich desktop features. Build self-sufficient web apps that work offline and store the data users need.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781449373443"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1449373445"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 518,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 4.5,
+          "ratingsCount": 3,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.3.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=wghaAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=wghaAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=wghaAgAAQBAJ&printsec=frontcover&dq=HTML5&hl=&cd=1&source=gbs_api",
+          "infoLink": "https:\/\/play.google.com\/store\/books\/details?id=wghaAgAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/play.google.com\/store\/books\/details?id=wghaAgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 30.6,
+            "currencyCode": "GBP"
+          },
+          "retailPrice": {
+            "amount": 19.89,
+            "currencyCode": "GBP"
+          },
+          "buyLink": "https:\/\/play.google.com\/store\/books\/details?id=wghaAgAAQBAJ&rdid=book-wghaAgAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 30600000,
+                "currencyCode": "GBP"
+              },
+              "retailPrice": {
+                "amountInMicros": 19890000,
+                "currencyCode": "GBP"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=wghaAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "HTML5 is more than a markup language\u2014it\u2019s a collection of several independent web standards. Fortunately, this expanded guide covers everything you need in one convenient place."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "GdDHanarLLUC",
+        "etag": "OydEmEyWBtk",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/GdDHanarLLUC",
+        "volumeInfo": {
+          "title": "Introducing HTML5",
+          "authors": [
+            "Bruce Lawson",
+            "Remy Sharp"
+          ],
+          "publisher": "Peachpit Press",
+          "publishedDate": "2011-09",
+          "description": "Provides information on the elements on HTML, offers code examples, and describes how to build accessible markup.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780321784421"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0321784421"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 295,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=GdDHanarLLUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=GdDHanarLLUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=GdDHanarLLUC&printsec=frontcover&dq=HTML5&hl=&cd=2&source=gbs_api",
+          "infoLink": "http:\/\/books.google.co.uk\/books?id=GdDHanarLLUC&dq=HTML5&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/books.google.com\/books\/about\/Introducing_HTML5.html?hl=&id=GdDHanarLLUC"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=GdDHanarLLUC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Provides information on the elements on HTML, offers code examples, and describes how to build accessible markup."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "7hfSXSyBIHYC",
+        "etag": "gy7688abTqQ",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/7hfSXSyBIHYC",
+        "volumeInfo": {
+          "title": "Pro HTML5 Programming",
+          "subtitle": "Powerful APIs for Richer Internet Application Development",
+          "authors": [
+            "Peter Lubbers",
+            "Brian Albers",
+            "Frank Salim"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2010-09-01",
+          "description": "HTML5 is here, and with it, web applications take on a power, ease, scalability, and responsiveness like never before. In this book, developers will learn how to use the latest cutting-edge HTML5 web technology\u2014available in the most recent versions of modern browsers\u2014to build web applications with unparalleled functionality, speed, and responsiveness. Explains how to create real-time HTML5 applications that tap the full potential of modern browsers Provides practical, real-world examples of HTML5 features in action Shows which HTML5 features are supported in current browsers Covers all the new HTML5 APIs to get you up to speed quickly with HTML5 What you\u2019ll learn How the HTML5 specification has evolved How to develop cutting-edge web applications using new HTML5 features like WebSockets, geolocation, Web Storage, Canvas, and audio and video Which features are available in browsers today Who this book is for Web designers and developers who want to use the latest cutting-edge technology available in current browsers Developers who want to create dynamic, HTML5 web applications Developers who want to know which HTML5 features are supported in current browsers Table of Contents Overview of HTML5 Using the HTML5 Canvas API Working with HTML5 Audio and Video Using the HTML5 Geolocation API Using the Communication APIs Using the HTML5 Web Socket API Using the HTML5 Forms API Using the HTML5 Web Workers API Using the HTML5 Web Storage API Creating HTML5 Offline Web Applications The Future of HTML5",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781430227908"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1430227907"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 304,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.1.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=7hfSXSyBIHYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=7hfSXSyBIHYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=7hfSXSyBIHYC&pg=PA260&dq=HTML5&hl=&cd=3&source=gbs_api",
+          "infoLink": "https:\/\/play.google.com\/store\/books\/details?id=7hfSXSyBIHYC&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/play.google.com\/store\/books\/details?id=7hfSXSyBIHYC"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 28.5,
+            "currencyCode": "GBP"
+          },
+          "retailPrice": {
+            "amount": 18.52,
+            "currencyCode": "GBP"
+          },
+          "buyLink": "https:\/\/play.google.com\/store\/books\/details?id=7hfSXSyBIHYC&rdid=book-7hfSXSyBIHYC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 28500000,
+                "currencyCode": "GBP"
+              },
+              "retailPrice": {
+                "amountInMicros": 18520000,
+                "currencyCode": "GBP"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/Pro_HTML5_Programming-sample-epub.acsm?id=7hfSXSyBIHYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/Pro_HTML5_Programming-sample-pdf.acsm?id=7hfSXSyBIHYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=7hfSXSyBIHYC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Browsers will take up features as they gain consensus, and the upcoming <br>\nfeatures might even be widely available in browsers well before <b>HTML5<\/b> is set in <br>\nstone. The community responsible for driving the Web forward is committed to <br>\nevolving&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "thFiZ7U3A3IC",
+        "etag": "eeK01c1OIT4",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/thFiZ7U3A3IC",
+        "volumeInfo": {
+          "title": "Smashing HTML5",
+          "authors": [
+            "Bill Sanders"
+          ],
+          "publisher": "John Wiley & Sons",
+          "publishedDate": "2010-11-05",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780470977347"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0470977345"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 320,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 3.5,
+          "ratingsCount": 2,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.3.2.0.preview.3",
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=thFiZ7U3A3IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=thFiZ7U3A3IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=thFiZ7U3A3IC&pg=PT12&dq=HTML5&hl=&cd=4&source=gbs_api",
+          "infoLink": "http:\/\/books.google.co.uk\/books?id=thFiZ7U3A3IC&dq=HTML5&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/books.google.com\/books\/about\/Smashing_HTML5.html?hl=&id=thFiZ7U3A3IC"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/Smashing_HTML5-sample-epub.acsm?id=thFiZ7U3A3IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/Smashing_HTML5-sample-pdf.acsm?id=thFiZ7U3A3IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=thFiZ7U3A3IC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Then the World Wide Web Consortium (W3C) published the <b>HTML5<\/b> Working <br>\nDraft in 2008. However, after publication of the <b>HTML5<\/b> standards in a draft format<br>\n, everything was back to a crawl as far as getting my hands on an <b>HTML5<\/b> <br>\nbrowser."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "5EPhMgCqJw0C",
+        "etag": "fxxXNlWmp9Y",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/5EPhMgCqJw0C",
+        "volumeInfo": {
+          "title": "The Essential Guide to HTML5",
+          "subtitle": "Using Games to learn HTML5 and JavaScript",
+          "authors": [
+            "Jeanine Meyer"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2011-01-27",
+          "description": "HTML5 opens up a plethora of new avenues for application and game development on the web. Games can now be created and interacted with directly within HTML, with no need for users to download extra plugins, or for developers to learn new languages. Important new features such as the Canvas tag enable drawing directly onto the web page. The Audio tag allows sounds to be triggered and played from within your HTML code, the WebSockets API facilitates real-time communication, and the local storage API enables data such as high scores or game preferences to be kept on a user's computer for retrieval next time they play. All of these features and many more are covered within The Essential Guide to HTML5. The book begins at an introductory level, teaching the essentials of HTML5 and JavaScript through game development. Each chapter features a familiar game type as its core example, such as hangman, rock-paper-scissors, or dice games, and uses these simple constructs to build a solid skillset of the key HTML5 concepts and features. By working through these hands on examples, you will gain a deep, practical knowledge of HTML5 that will enable you to build your own, more advanced games and applications. Concepts are introduced and motivated with easy-to-grasp, appealing examples Code is explained in detail after general explanations Reader is guided into how to make the examples 'their own'",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781430233848"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1430233842"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 376,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.5.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=5EPhMgCqJw0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=5EPhMgCqJw0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=5EPhMgCqJw0C&pg=PR13&dq=HTML5&hl=&cd=5&source=gbs_api",
+          "infoLink": "https:\/\/play.google.com\/store\/books\/details?id=5EPhMgCqJw0C&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/play.google.com\/store\/books\/details?id=5EPhMgCqJw0C"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 32.99,
+            "currencyCode": "GBP"
+          },
+          "retailPrice": {
+            "amount": 21.44,
+            "currencyCode": "GBP"
+          },
+          "buyLink": "https:\/\/play.google.com\/store\/books\/details?id=5EPhMgCqJw0C&rdid=book-5EPhMgCqJw0C&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 32990000,
+                "currencyCode": "GBP"
+              },
+              "retailPrice": {
+                "amountInMicros": 21440000,
+                "currencyCode": "GBP"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/The_Essential_Guide_to_HTML5-sample-epub.acsm?id=5EPhMgCqJw0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/The_Essential_Guide_to_HTML5-sample-pdf.acsm?id=5EPhMgCqJw0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=5EPhMgCqJw0C&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Theres been considerable enthusiasm about the new capabilities of <b>HTML5<\/b>, and <br>\neven suggestions that no other technologies or products are necessary to <br>\nproduce dynamic, engrossing, interactive web sites. That may be overstating <br>\nthings,&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Mk3sW0on7OAC",
+        "etag": "RuH\/sYCwLHs",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/Mk3sW0on7OAC",
+        "volumeInfo": {
+          "title": "HTML5: Up and Running",
+          "subtitle": "Dive into the Future of Web Development",
+          "authors": [
+            "Mark Pilgrim"
+          ],
+          "publisher": "\"O'Reilly Media, Inc.\"",
+          "publishedDate": "2010-08-06",
+          "description": "If you don't know about the new features available in HTML5, now's the time to find out. This book provides practical information about how and why the latest version of this markup language will significantly change the way you develop for the Web. HTML5 is still evolving, yet browsers such as Safari, Mozilla, Opera, and Chrome already support many of its features -- and mobile browsers are even farther ahead. HTML5: Up & Running carefully guides you though the important changes in this version with lots of hands-on examples, including markup, graphics, and screenshots. You'll learn how to use HTML5 markup to add video, offline capabilities, and more -- and you\u2019ll be able to put that functionality to work right away. Learn new semantic elements, such as , , and Meet Canvas, a 2D drawing surface you can program with JavaScript Embed video in your web pages without third-party plugins Use Geolocation to let web application visitors share their physical location Take advantage of local storage capacity that goes way beyond cookies Build offline web applications that work after network access is disconnected Learn about several new input types for web forms Create your own custom vocabularies in HTML5 with microdata",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1449399665"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781449399665"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 222,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 4.5,
+          "ratingsCount": 4,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.7.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=Mk3sW0on7OAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=Mk3sW0on7OAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=Mk3sW0on7OAC&pg=PA86&dq=HTML5&hl=&cd=6&source=gbs_api",
+          "infoLink": "https:\/\/play.google.com\/store\/books\/details?id=Mk3sW0on7OAC&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/play.google.com\/store\/books\/details?id=Mk3sW0on7OAC"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 19.19,
+            "currencyCode": "GBP"
+          },
+          "retailPrice": {
+            "amount": 12.47,
+            "currencyCode": "GBP"
+          },
+          "buyLink": "https:\/\/play.google.com\/store\/books\/details?id=Mk3sW0on7OAC&rdid=book-Mk3sW0on7OAC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 19190000,
+                "currencyCode": "GBP"
+              },
+              "retailPrice": {
+                "amountInMicros": 12470000,
+                "currencyCode": "GBP"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=Mk3sW0on7OAC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "CVKbLHQ35ToC",
+        "etag": "BUmldmXdJv8",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/CVKbLHQ35ToC",
+        "volumeInfo": {
+          "title": "HTML5",
+          "subtitle": "The Missing Manual",
+          "authors": [
+            "Matthew MacDonald"
+          ],
+          "publisher": "\"O'Reilly Media, Inc.\"",
+          "publishedDate": "2011-08-19",
+          "description": "A guide to HTML5 covers such topics as markup, Web forms, audio and video, Canvas, CSS3, data storage, offline applications, and JavaScript.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781449302399"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1449302394"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 432,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 3,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.3.0.0.preview.1",
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=CVKbLHQ35ToC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=CVKbLHQ35ToC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=CVKbLHQ35ToC&pg=PA236&dq=HTML5&hl=&cd=7&source=gbs_api",
+          "infoLink": "http:\/\/books.google.co.uk\/books?id=CVKbLHQ35ToC&dq=HTML5&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/books.google.com\/books\/about\/HTML5.html?hl=&id=CVKbLHQ35ToC"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=CVKbLHQ35ToC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "If you want to look at some even more ambitious ex- amples that take <b>HTML5<\/b> into <br>\nthe world of black-belt cod- ing, the Web is your friend. Here&#39;s a list of websites <br>\nthat demonstrate some mind-blowing canvas mojo: \u2022 Canvas Demos. This <br>\ncanvas&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "jhJNl6yWvYAC",
+        "etag": "tk+yq5rx1h0",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/jhJNl6yWvYAC",
+        "volumeInfo": {
+          "title": "HTML5 Solutions",
+          "subtitle": "Essential Techniques for HTML5 Developers",
+          "authors": [
+            "Marco Casario",
+            "Peter Elst",
+            "Charles Brown",
+            "Nathalie Wormser",
+            "Cyril Hanquez"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2011-06-14",
+          "description": "HTML5 brings the biggest changes that HTML has seen in years. Web designers and developers now have a whole host of new techniques up their sleeves, from displaying video and audio natively in HTML, to creating realtime graphics directly on a web page without the need for a plugin. But all of these new technologies bring more tags to learn and more avenues for things to go wrong. HTML5 Solutions provides a collection of solutions to all of the most common HTML5 problems. Every solution contains sample code that is production-ready and can be applied to any project. What you\u2019ll learnReal-world solutions for everyday HTML development, saving hours of frustration. Problems covered include: Sending multi-bitrate videos to different devices Creating custom video components Programming a custom video controller Designing a canvas with custom gradients Capturing and drawing images Storing data offline using the Web SQL Databases Dragging data from the desktop into the browser Creating HTML5 WebSockets Who this book is for Web developers and designers seeking practical advice on making HTML5 sites work. Table of Contents HTML5 Page Structures HTML5 Markup Structural and Semantic Elements HTML5 Forms HTML5 Media Elements: Audio and Video HTML5 Drawing APIs HTML5 Canvas HTML5 Communication APIs HTML5 WebSockets HTML5 Geolocation API HTML5 Local Storage HTML5 Accessibility",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781430233862"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1430233869"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 364,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=jhJNl6yWvYAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=jhJNl6yWvYAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=jhJNl6yWvYAC&pg=PA188&dq=HTML5&hl=&cd=8&source=gbs_api",
+          "infoLink": "https:\/\/play.google.com\/store\/books\/details?id=jhJNl6yWvYAC&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/play.google.com\/store\/books\/details?id=jhJNl6yWvYAC"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 28.5,
+            "currencyCode": "GBP"
+          },
+          "retailPrice": {
+            "amount": 18.52,
+            "currencyCode": "GBP"
+          },
+          "buyLink": "https:\/\/play.google.com\/store\/books\/details?id=jhJNl6yWvYAC&rdid=book-jhJNl6yWvYAC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 28500000,
+                "currencyCode": "GBP"
+              },
+              "retailPrice": {
+                "amountInMicros": 18520000,
+                "currencyCode": "GBP"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/HTML5_Solutions-sample-epub.acsm?id=jhJNl6yWvYAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/HTML5_Solutions-sample-pdf.acsm?id=jhJNl6yWvYAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=jhJNl6yWvYAC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Essential Techniques for <b>HTML5<\/b> Developers Marco Casario, Peter Elst, Charles <br>\nBrown, Nathalie Wormser, Cyril Hanquez. add(&#39;graph3&#39;,&#39;graph3.jpg&#39;); add(&#39;graph4<br>\n&#39;,&#39;graph4.jpg&#39;); } function add(val,img) { var element=document."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "er_CI68Vp7cC",
+        "etag": "Yk6elhJD1u4",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/er_CI68Vp7cC",
+        "volumeInfo": {
+          "title": "The Definitive Guide to HTML5 Video",
+          "authors": [
+            "Silvia Pfeiffer"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2010-12-29",
+          "description": "Plugins will soon be a thing of the past. The Definitive Guide to HTML5 Video is the first authoritative book on HTML5 video, the new web standard that allows browsers to support audio and video elements natively. This makes it very easy for web developers to publish audio and video, integrating both within the general presentation of web pages. For example, media elements can be styled using CSS (style sheets), integrated into SVG (scalable vector graphics), and manipulated in a Canvas. The book offers techniques for providing accessibility to media elements, enabling consistent handling of alternative representations of media resources. The Definitive Guide to HTML5 Video dives deep into the markup that is introduced for media element support in browsers. You\u2019ll explore the default user interface offered through browsers for media elements, as well as the JavaScript API provided to control their behavior. You\u2019ll also learn how to account for H.264 and Ogg Theora codecs. What you\u2019ll learn How to create cross-browser markup in HTML to include audio and video into your web pages How to replace the default controls of web browsers with your own or \"skin\" your media player How to use the JavaScript API for media elements How to integrate media elements with other HTML5 constructs such as CSS, SVG, Canvas, or Web Worker Threads How tp make audio and video accessible How to use media fragment URIs to address certain temporal subparts or tracks of a media resource The open source tools available to deal with the new HTML5 media elements Who this book is for This book is for those who are proficient in authoring and publishing Web pages, but have never utilized audio and video. It will also benefit old buffs of Adobe Flash, Microsoft Silverlight, or QuickTime who are trying to understand what is happening in HTML5 media and how to use the new media elements. Table of Contents Introduction Audio and Video Elements CSS3 Styling JavaScript API HTML5 Media and SVG HTML5 Media and Canvas HTML5 Media and Web Workers HTML5 Audio API Media Accessibility and Internationalization Audio and Video Devices",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781430230908"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1430230908"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 336,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 3,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=er_CI68Vp7cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=er_CI68Vp7cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=er_CI68Vp7cC&pg=PA300&dq=HTML5&hl=&cd=9&source=gbs_api",
+          "infoLink": "https:\/\/play.google.com\/store\/books\/details?id=er_CI68Vp7cC&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/play.google.com\/store\/books\/details?id=er_CI68Vp7cC"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 25.5,
+            "currencyCode": "GBP"
+          },
+          "retailPrice": {
+            "amount": 16.58,
+            "currencyCode": "GBP"
+          },
+          "buyLink": "https:\/\/play.google.com\/store\/books\/details?id=er_CI68Vp7cC&rdid=book-er_CI68Vp7cC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 25500000,
+                "currencyCode": "GBP"
+              },
+              "retailPrice": {
+                "amountInMicros": 16580000,
+                "currencyCode": "GBP"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/The_Definitive_Guide_to_HTML5_Video-sample-epub.acsm?id=er_CI68Vp7cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http:\/\/books.google.co.uk\/books\/download\/The_Definitive_Guide_to_HTML5_Video-sample-pdf.acsm?id=er_CI68Vp7cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=er_CI68Vp7cC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "In <b>HTML5<\/b> Media and SVG we used SVG to create further advanced styling. We <br>\nused SVG shapes, patterns, or manipulated text as masks for video, implemented <br>\noverlay controls for videos in SVG, placed gradients on top ofvideos, and applied<br>\n&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "cXcaY7XVZbcC",
+        "etag": "ifLRO6z4FB4",
+        "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/cXcaY7XVZbcC",
+        "volumeInfo": {
+          "title": "HTML5 Cookbook",
+          "subtitle": "Solutions & Examples for HTML5 Developers",
+          "authors": [
+            "Christopher Schmitt",
+            "Kyle Simpson"
+          ],
+          "publisher": "\"O'Reilly Media, Inc.\"",
+          "publishedDate": "2011-11-07",
+          "description": "With scores of practical recipes you can use in your projects right away, this cookbook helps you gain hands-on experience with HTML5\u2019s versatile collection of elements. You get clear solutions for handling issues with everything from markup semantics, web forms, and audio and video elements to related technologies such as geolocation and rich JavaScript APIs. Each informative recipe includes sample code and a detailed discussion on why and how the solution works. Perfect for intermediate to advanced web and mobile web developers, this handy book lets you choose the HTML5 features that work for you\u2014and helps you experiment with the rest. Test browsers for HTML5 support, and use techniques for applying unsupported features Discover how HTML5 makes web form implementation much simpler Overcome challenges for implementing native audio and video elements Learn techniques for using HTML5 with ARIA accessibility guidelines Explore examples that cover using geolocation data in your applications Draw images, use transparencies, add gradients and patterns, and more with Canvas Bring HTML5 features to life with a variety of advanced JavaScript APIs",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781449322069"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1449322069"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 284,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.4.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http:\/\/books.google.com\/books\/content?id=cXcaY7XVZbcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http:\/\/books.google.com\/books\/content?id=cXcaY7XVZbcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http:\/\/books.google.co.uk\/books?id=cXcaY7XVZbcC&pg=PA249&dq=HTML5&hl=&cd=10&source=gbs_api",
+          "infoLink": "https:\/\/play.google.com\/store\/books\/details?id=cXcaY7XVZbcC&source=gbs_api",
+          "canonicalVolumeLink": "https:\/\/play.google.com\/store\/books\/details?id=cXcaY7XVZbcC"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 27,
+            "currencyCode": "GBP"
+          },
+          "retailPrice": {
+            "amount": 17.55,
+            "currencyCode": "GBP"
+          },
+          "buyLink": "https:\/\/play.google.com\/store\/books\/details?id=cXcaY7XVZbcC&rdid=book-cXcaY7XVZbcC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 27000000,
+                "currencyCode": "GBP"
+              },
+              "retailPrice": {
+                "amountInMicros": 17550000,
+                "currencyCode": "GBP"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http:\/\/play.google.com\/books\/reader?id=cXcaY7XVZbcC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Solutions &amp; Examples for <b>HTML5<\/b> Developers Christopher Schmitt, Kyle Simpson. <br>\nAPPENDIX. <b>HTML5<\/b>. Resources. Comparison of JavaScript frameworks A <br>\nWikipedia entry serving as a feature comparison between the different JavaScript<br>\n&nbsp;..."
+        }
+      }
+    ]
+  }
